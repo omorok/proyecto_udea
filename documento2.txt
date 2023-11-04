@@ -1,2 +1,0 @@
-titulo: el titulo que ud quiera
-autor: susana
